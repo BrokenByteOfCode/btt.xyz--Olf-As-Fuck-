@@ -71,16 +71,3 @@ body {
     background-image: url('button_hover.jpg');
     color: #000000;
 }
-
-.skill-tag {
-    display: inline-block;
-    background-color: #E0F2F1;
-    border: 1px solid #80CBC4;
-    padding: 3px 8px;
-    margin: 2px;
-    -moz-border-radius: 5px;
-    -webkit-border-radius: 5px;
-    border-radius: 5px;
-    font-size: 11px;
-    color: #00695C;
-}
